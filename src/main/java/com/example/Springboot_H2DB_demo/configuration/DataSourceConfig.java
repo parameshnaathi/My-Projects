@@ -9,7 +9,7 @@ import org.springframework.jdbc.datasource.init.ResourceDatabasePopulator;
 import javax.sql.DataSource;
 
 @Configuration
-public class DataSourceConfig {
+public class DataSourceConfig { 
 
     @Bean
     public DataSourceInitializer dataSourceInitializer(DataSource dataSource) {
