@@ -1,0 +1,21 @@
+-- Insert sample data into the USERS table
+INSERT INTO USERS (name, email) VALUES ('John Doe', 'john.doe@example.com');
+INSERT INTO USERS (name, email) VALUES ('Jane Smith', 'jane.smith@example.com');
+INSERT INTO USERS (name, email) VALUES ('Alice Johnson', 'alice.johnson@example.com');
+INSERT INTO USERS (name, email) VALUES ('Bob Brown', 'bob.brown@example.com');
+INSERT INTO USERS (name, email) VALUES ('Charlie Davis', 'charlie.davis@example.com');
+INSERT INTO USERS (name, email) VALUES ('David Evans', 'david.evans@example.com');
+INSERT INTO USERS (name, email) VALUES ('Eve Foster', 'eve.foster@example.com');
+INSERT INTO USERS (name, email) VALUES ('Frank Green', 'frank.green@example.com');
+INSERT INTO USERS (name, email) VALUES ('Grace Harris', 'grace.harris@example.com');
+INSERT INTO USERS (name, email) VALUES ('Hannah Irvine', 'hannah.irvine@example.com');
+INSERT INTO USERS (name, email) VALUES ('Ivan Jones', 'ivan.jones@example.com');
+INSERT INTO USERS (name, email) VALUES ('Jack Kelly', 'jack.kelly@example.com');
+INSERT INTO USERS (name, email) VALUES ('Karen Lee', 'karen.lee@example.com');
+INSERT INTO USERS (name, email) VALUES ('Liam Martin', 'liam.martin@example.com');
+INSERT INTO USERS (name, email) VALUES ('Mia Nelson', 'mia.nelson@example.com');
+INSERT INTO USERS (name, email) VALUES ('Nina Owens', 'nina.owens@example.com');
+INSERT INTO USERS (name, email) VALUES ('Oscar Parker', 'oscar.parker@example.com');
+INSERT INTO USERS (name, email) VALUES ('Paul Quinn', 'paul.quinn@example.com');
+INSERT INTO USERS (name, email) VALUES ('Rachel Scott', 'rachel.scott@example.com');
+INSERT INTO USERS (name, email) VALUES ('Sam Taylor', 'sam.taylor@example.com');
